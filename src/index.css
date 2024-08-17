@@ -1,0 +1,6 @@
+@tailwind base;
+/* normalize */
+@tailwind components;
+/* responsive */
+@tailwind utilities;
+/* 已經設定好的style */
